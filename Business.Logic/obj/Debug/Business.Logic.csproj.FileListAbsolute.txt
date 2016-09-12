@@ -1,0 +1,11 @@
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Business.Logic.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Business.Logic.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Business.Entities.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Data.Database.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Util.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Business.Entities.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Data.Database.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\bin\Debug\Util.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\obj\Debug\Business.Logic.csprojResolveAssemblyReference.cache
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\obj\Debug\Business.Logic.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Logic\obj\Debug\Business.Logic.pdb
