@@ -1,0 +1,16 @@
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+E:\Alumnos\Net\Grupo7\TP2Lab06\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
