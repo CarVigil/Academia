@@ -1,0 +1,14 @@
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\UI.Consola.exe.config
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\UI.Consola.exe
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\UI.Consola.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Business.Entities.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Business.Logic.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Util.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Data.Database.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Business.Entities.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Business.Logic.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Util.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\bin\Debug\Data.Database.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\obj\Debug\UI.Consola.exe
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\UI.Consola\obj\Debug\UI.Consola.pdb
