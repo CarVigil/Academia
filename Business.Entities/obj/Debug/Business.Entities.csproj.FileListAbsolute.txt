@@ -1,0 +1,5 @@
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Entities\bin\Debug\Business.Entities.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Entities\bin\Debug\Business.Entities.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Entities\obj\Debug\Business.Entities.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Business.Entities\obj\Debug\Business.Entities.pdb
