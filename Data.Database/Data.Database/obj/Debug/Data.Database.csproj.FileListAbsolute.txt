@@ -1,0 +1,9 @@
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\bin\Debug\Util.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\bin\Debug\Util.pdb
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+E:\Alumnos\Net\Grupo7\TP2Lab05_v1\Academia-master\Data.Database\Data.Database\obj\Debug\Data.Database.pdb
